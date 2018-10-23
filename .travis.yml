@@ -7,3 +7,6 @@ script:
   - gradle run
   - gradle build
   - gradle test
+
+language:
+  - java
