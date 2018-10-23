@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgosTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-10-22T02:24:58" hostname="AdityaK" time="0.008">
+  <properties/>
+  <testcase name="testCase2SelectionSort" classname="test.java.AlgosTest" time="0.004"/>
+  <testcase name="testCase2HeapSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="nullBubbleSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="nullQuickSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="nullMergeSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="nullHeapSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="testCase2BubbleSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="nullInsertionSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="testCase2QuickSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="testCase2MergeSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="testCase2InsertionSort" classname="test.java.AlgosTest" time="0.001"/>
+  <testcase name="nullSelectionSort" classname="test.java.AlgosTest" time="0.0"/>
+  <testcase name="testCase2DefaultSort" classname="test.java.AlgosTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
